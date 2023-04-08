@@ -1,6 +1,6 @@
 iframe {
 	border: none;
-	pointer-events: none;
+	pointer-events: auto;
 	height: 1000px;
 	width: 100%;
 }
